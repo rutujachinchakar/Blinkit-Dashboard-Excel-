@@ -25,7 +25,7 @@ The dashboard helps track overall sales, product categories, outlet performance,
 
 •	Outlet Location: Tier 2 outlets performed best (~$503.2K)
 
-•	Fat Content: Regular products sold more (~$776.3K) than low-fat (~$425.4K)
+•	Fat Content: Regular products sold more (~$776.3K)  than low-fat  (~$425.4K)
 
 •	Top Categories: Fruits & Vegetables, Snack Foods, and Household items
 
